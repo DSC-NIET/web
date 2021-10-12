@@ -1,3 +1,3 @@
-#DSC-NIET
+DSC-NIET
 
-Website Link- https://dsc-niet.github.io/dscniet/
+Website Link- dsc-niet.github.io/web
